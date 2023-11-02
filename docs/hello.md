@@ -3,6 +3,6 @@ sidebar_label: "Hello, World"
 sidebar_position: 0
 ---
 
-# Hello
+# Hello, World
 
-World
+This page is where I will talk a little about myself and experience.
