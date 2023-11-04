@@ -1,14 +1,14 @@
 # Hi, I'm Nic 🖖
 
-- 🧀 Proud cheesehead.
-- 💻 Product-minded full-stack engineer.
-- 🔭 Professional experience building with Python, React, Typescript, AWS, Terraform, & Docker.
-- 🔑 Communication is key.
-- 🤑 Community is coin.
+-   🧀 Proud cheesehead (Go Pack Go).
+-   💻 Product-minded full-stack engineer.
+-   🛠️ Professional experience building with Python, Typescript (React, Node), AWS, Terraform, & Docker.
+-   🔭 Personal experience exploring emerging tech (blockchain, data science, LLMs).
+-   🎓 Academic experience in Economics and Math.
 
 ## Personal Site
 
-You can find my site [here](https://wisconic-git.vercel.app/), which is built using [Docusaurus](https://docusaurus.io/).
+You can find my site [here](https://wisconic-git.vercel.app/) - built with [Docusaurus](https://docusaurus.io/).
 
 ## Visitor count
 
