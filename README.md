@@ -8,7 +8,7 @@
 
 ## Personal Site
 
-You can find my site [here](https://wisconic-git.vercel.app/) - built with [Docusaurus](https://docusaurus.io/).
+You can find my (unfinished) site [here](https://wisconic-git.vercel.app/) - built with [Docusaurus](https://docusaurus.io/).
 
 ## Visitor count
 
