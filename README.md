@@ -1,2 +1,2 @@
-🧀 Proud cheesehead 
-🦌 Bucks in 6
+- 🧀 Proud cheesehead 
+- 🦌 Bucks in 6
